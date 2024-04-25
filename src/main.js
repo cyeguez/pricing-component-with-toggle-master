@@ -44,7 +44,7 @@ const render = (data, state) => {
           <p class="font-semibold text-sm lg:pt-[36px] lg:text-[1.125em] lg:mb-[40px] ">${
       element.category
     }</p>
-          <p class="text-5xl font-bold relative price lg:text-[3.5em]   ">        
+          <p class="text-5xl font-bold relative price">        
             <span class="text-3xl font-bold top-2 phone:left-0 phone-xs:left-5 md:left-9 -top-.5 absolute lg:text-[40px] lg:left-0.5 ">
             &dollar; 
             </span>

@@ -1,0 +1,28 @@
+[
+  {
+    "category": "Basic",
+    "priceAnnually": 199.99,
+    "priceMonthly": 19.99,
+    "storage": "500 GB",
+    "user": 2,
+    "sentCapacity": 3
+  },
+
+  {
+    "category": "Professional",
+    "priceAnnually": 249.99,
+    "priceMonthly": 24.99,    
+    "storage": "1 TB",
+    "user": 5,
+    "sentCapacity": 10
+  },
+
+  {
+    "category": "Master",
+    "priceAnnually": 399.99,
+    "priceMonthly": 39.99,
+    "storage": "2 TB",
+    "user": 10,
+    "sentCapacity": 20
+  }
+]

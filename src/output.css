@@ -885,6 +885,10 @@ video {
   .phone-xs\:left-5 {
     left: 1.25rem;
   }
+
+  .phone-xs\:left-4 {
+    left: 1rem;
+  }
 }
 
 @media (min-width: 640px) {
@@ -898,6 +902,30 @@ video {
   .md\:left-9 {
     left: 2.25rem;
   }
+
+  .md\:left-8 {
+    left: 2rem;
+  }
+
+  .md\:left-10 {
+    left: 2.5rem;
+  }
+
+  .md\:left-14 {
+    left: 3.5rem;
+  }
+
+  .md\:left-1 {
+    left: 0.25rem;
+  }
+
+  .md\:left-4 {
+    left: 1rem;
+  }
+
+  .md\:left-6 {
+    left: 1.5rem;
+  }
 }
 
 @media (min-width: 1024px) {
@@ -907,6 +935,18 @@ video {
 
   .lg\:left-0\.5 {
     left: 0.125rem;
+  }
+
+  .lg\:left-8 {
+    left: 2rem;
+  }
+
+  .lg\:left-9 {
+    left: 2.25rem;
+  }
+
+  .lg\:left-10 {
+    left: 2.5rem;
   }
 
   .lg\:m-0 {

@@ -45,7 +45,7 @@ const render = (data, state) => {
       element.category
     }</p>
           <p class="text-5xl font-bold relative price">        
-            <span class="text-3xl font-bold top-2 phone:left-0 phone-xs:left-5 md:left-9 -top-.5 absolute lg:text-[40px] lg:left-0.5 ">
+            <span class="text-3xl font-bold top-2 phone:left-0 phone-xs:left-4 md:left-6 -top-.5 absolute lg:left-8 lg:text-[40px]  ">
             &dollar; 
             </span>
             ${!state ? element.priceAnnually : element.priceMonthly}

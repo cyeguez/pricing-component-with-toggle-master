@@ -50,7 +50,7 @@ I start by placing the html tags and giving order to the project, defining the v
 
 ### Built with
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,taliwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind, figma)](https://skillicons.dev)
 
 ## Author
 

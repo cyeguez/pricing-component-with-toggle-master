@@ -41,8 +41,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://cyeguez.github.io/pricing-component-with-toggle-master/)
+- Live Site URL: [Git Page](https://cyeguez.github.io/pricing-component-with-toggle-master/src/index)
 
 ## My process
 
@@ -50,7 +50,7 @@ I start by placing the html tags and giving order to the project, defining the v
 
 ### Built with
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind, figma)](https://skillicons.dev)
+[![Tecnology](https://skillicons.dev/icons?i=js,html,css,tailwind, figma)](https://skillicons.dev)
 
 ## Author
 
